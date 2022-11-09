@@ -1,0 +1,15 @@
+input: .
+output: .retype
+url: https://docs.bento-bot.com
+branding:
+  title: Bento Bot
+  label: Docs
+links:
+- text: Home
+  link: https://docs.bento-bot.com
+- text: Support Server
+  link: https://bento-bot.com/support
+- text: Invite Bento
+  link: https://bento-bot.com/invite?ref=docs
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
