@@ -1,6 +1,9 @@
 input: .
 output: .retype
-url: https://docs.bento-bot.com
+url: docs.bento-bot.com
+edit:
+  repo: "https://github.com/bentodevs/docs"
+  label: Edit on GitHub
 branding:
   title: Bento Bot
   label: Docs
